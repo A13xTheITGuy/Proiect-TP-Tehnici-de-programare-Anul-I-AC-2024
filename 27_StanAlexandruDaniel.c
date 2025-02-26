@@ -11,7 +11,6 @@ uint8_t index = 1; // indexul secventei de la final din vectorul Sir_de_numere c
 
 void impartire_sir(unsigned* Sir_de_numere, int N, int poz, int start, int stop)
 {
-
 	if (start <= stop){ // atata timp cat nu am iesit din limitele subsirului
 		unsigned max= 0;
 		for (int i = start; i <= stop; i++) // determinam maximul din intervalul subsirului
