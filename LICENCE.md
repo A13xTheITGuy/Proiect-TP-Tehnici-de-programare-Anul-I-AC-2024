@@ -1,6 +1,6 @@
 # Proiect-TP-Tehnici-de-programare-Anul-I-AC-2024 License
 
-Copyright (c) 2025 A13xTheITGuy @ https://github.com/A13xTheITGuy
+Copyright (c) 2025 A13xTheITGuy <https://github.com/A13xTheITGuy>
 
 ### Permission to use, copy, and inspire:
 - You are permitted to **use** this project for **personal** purposes only.
